@@ -17,7 +17,7 @@ GEM
       watir (~> 6.8)
     page_navigation (0.10)
       data_magic (>= 0.22)
-    rake (12.3.0)
+    rake (12.3.3)
     regexp_parser (1.5.1)
     rubyzip (1.2.3)
     selenium-webdriver (3.142.3)
@@ -29,6 +29,7 @@ GEM
     yml_reader (0.7)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
